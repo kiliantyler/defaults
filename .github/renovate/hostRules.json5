@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "hostRules": [
+    {
+      "matchHost": "ghcr.io",
+      "username": "kiliantyler",
+      "encrypted": {
+        "password": "wcFMA/xDdHCJBTolARAAkfm/PVBG366gVLotojTfuke3H0EKLN5grl8e+u6zEtAwp4AwUkvJQ14hGPRYp89RALb2ymoJnm9EOrzLFEZXice9LNKGe2yIyJzD3+1qasMCHwYMymOAAKB3Aqvoo2Wf2AUlgxt6jL6p7cgtYBQR/ln90KgVO+Y/xUYPc7vIl8Bwo2tvLxTMFamdcte9O7R74PGpG3T3wzScWiQ89Q1bY3JHco9aI7ObCvMubrp4Bk3zvDf2jS+eG36rwG2W9RK70PBNXpHfkV1PtKHMkr6Lket7pf2vpA03SDx4dzaRS5EFJoY4pMo356bjHmBadd8gc9E1d1HcxGUE2J5cIdmBYhiEhUuI8B2HloqXnTH/wt4Pygq0IZ3bBpqxCMKCXUAzjEGo3hqKqDH7HHsXmab8z2VjCpCcd4T4htTFGkYD/B3wYmIlUVY0xv9bEBJSpdfcuXNJ/kDX9cqHfLv1dL74ZLitrSVZnCxarLIbtb5n2eShmtUpNufgRfeanSJ21uR94pYtybcvqxlDio6nfzZzv2ZRx2mdDmWmLVjJqgZGVZbgvPGANBHeItkuCpdi0defTzTjj2cAYGzn+FhY9V2OuyiCUSEUg8tsfEAMBDt0vCvlutgZhhpm5NeOHeZbFca6/tS2xazLklG/jUnwtVYpLZ7pzz+T/68CDDUwHonoHevSgAHWulR2BBsxuimmIHo0yRURTxC+9wjwNVSIc99y2t2cGVN20VDt7d0FhplbD0iIn3Y45w/yj4aFTVVbdrmH7qviFqOhOF+6PhAKAIGHseQREQsSVtgh+Iou0ZNbgynuDzQWxzujyZ5fBUFLDsig3gJBQwDxlXw/LThMuzyY/9zj"
+      }
+    }
+  ]
+}
