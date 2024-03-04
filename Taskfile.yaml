@@ -11,7 +11,7 @@ env:
   VIRTUAL_ENV: "{{.ROOT_DIR}}/.venv"
 
 includes:
-  precommit: .taskfiles/PrecommitTasks.yml
+  precommit: .taskfiles/PrecommitTasks.yaml
 
 tasks:
   default:
