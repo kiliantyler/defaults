@@ -1,9 +1,15 @@
 {
   "files.associations": {
-      "*.json5": "jsonc"
+    "*.json5": "jsonc"
   },
   "material-icon-theme.folders.associations": {
-      ".taskfiles": "utils"
+    ".taskfiles": "utils"
+  },
+  "[json]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
   },
   "yaml.schemaStore.enable": true,
   "editor.fontFamily": "FiraCode Nerd Font",
