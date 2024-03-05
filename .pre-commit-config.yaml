@@ -6,6 +6,10 @@ repos:
   - id: check-added-large-files
   - id: check-case-conflict
   - id: check-json
+  - id: pretty-format-json
+    args:
+    - --autofix
+    - --no-sort-keys
   - id: check-merge-conflict
   - id: check-symlinks
   - id: check-vcs-permalinks
